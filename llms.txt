@@ -1,2 +1,25 @@
 # Pickering Duct Cleaning
-HVAC services in Ontario.
+
+> Pickering Duct Cleaning is a local HVAC company serving Pickering, Durham, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 831-4059  |  Email: contact@pickeringductcleaning.ca  |  Website: https://pickeringductcleaning.ca
+
+## Key pages
+
+- [Home](https://pickeringductcleaning.ca/): Pickering Duct Cleaning homepage with service overview and FAQ
+- [About](https://pickeringductcleaning.ca/about/): About the company and service area
+- [Contact](https://pickeringductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://pickeringductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Pickering, Ontario
+- [Dryer Vent Cleaning](https://pickeringductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Pickering, Ontario
+- [Furnace & AC Cleaning](https://pickeringductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Pickering, Ontario
+- [HRV & Ventilation Cleaning](https://pickeringductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Pickering, Ontario
+- [Duct Sanitizing & Deodorizing](https://pickeringductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Pickering, Ontario
+- [Duct Sealing & Repair](https://pickeringductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Pickering, Ontario
+- [Commercial Duct Cleaning](https://pickeringductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Pickering, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Pickering are answered on the homepage.
